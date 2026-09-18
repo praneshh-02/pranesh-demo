@@ -1,4 +1,4 @@
 # pranesh-demo
 This is my first repopsitory
 <br>
-Author - Pranesh Patar(ABES)
+Author - Pranesh Patar(ABES btech)
